@@ -1,0 +1,19 @@
+judul sistem
+	Sistem e-SOP Kementerian Sekretariat Negara					sudah
+
+tgl revisi diberi (-) jika kosong							sudah
+kolom kegiatan di buat vertical center
+font 8											sudah
+header
+	titik dua dari no sop - nama di mundurin di sejajar kualifikasi plaksana	sudah
+	titik dua di dasar hukum - pencatatan tidak ada spasi				sudah
+
+
+kegiatan
+	No.										sudah
+	cetakan hasil diganti output							sudah
+
+
+
+
+ditambah editor italic utk header dan kegiatan

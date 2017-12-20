@@ -1,0 +1,49 @@
+kepala biro sudah di ketahui penyusun saat login
+tooltip unutk memberi informasi untuk input :
+	kualifikasi
+	peralatan
+	keterkaitan	-> link dari penyusunan kegiatan langsung input ke kolom keterkaitan
+dasar hukum, minimal ada 2 yg pokok dan harus muncul dahulu
+	bisa di sisipkan
+pencatatan hanya ada 2 pilihan :
+	- manual
+	- elektronik
+
+
+flowchart
+	ada tombol untuk menampilkan kolom tambahan sejajar kegiatan (max 5 kolom)
+	
+
+kertas
+	A4
+	margin kiri 3
+
+
+
+logo SOP
+
+
+
+1. Kualifikasi pelaksana (105 karakter/baris, maksimal 10 baris)
+
+2. Dasar Hukum (120 karakter/baris, maksimal 10 baris)
+
+3. Kererkaitan (120 karakter/baris, maksimal 5 baris)
+
+4. Peringatan (600 karakter)
+
+5. Pencatatan dan Pendataan (dikasih 3 piligan ja mas) 
+
+    	Disimpan sbg data manual
+b. 
+	Disimpan sbg data elektronik
+c. 
+	Disimpan sbg data manual dan elektronik
+
+6. Kelengkapan (110 karakter)
+
+7. Waktu (40 karakter)
+
+8. Output (110 karakter)
+
+9. Keterangan (150 karakter)

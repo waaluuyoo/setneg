@@ -1,0 +1,9 @@
+stencil
+
+tambah jam sebelah kanan di header
+menu di tambah bold
+chating dan forum kosongin
+profil :
+	Jabatan
+
+logo di perbesar
