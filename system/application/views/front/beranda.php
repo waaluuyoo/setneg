@@ -1,4 +1,3 @@
-
 <section id="slider" class="">
   <!-- Carousel -->
   <div id="main-slide" class="carousel slide" data-ride="carousel">
